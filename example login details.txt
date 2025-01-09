@@ -1,0 +1,4 @@
+johnsmith1@gmail.com, 123 , Admin
+ellie3@gmail.com, 145, Admin
+jamlads@gmail.com, 213, Manager
+kalamid@outlook.com, 167, Staff
